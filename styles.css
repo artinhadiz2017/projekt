@@ -6,3 +6,12 @@ body{
     font-family: inter ;
 }
 
+#webicon{
+    max-width: 100px;
+    margin: 10px 5px;
+}
+
+.dropdown_nav{
+    display: flex;
+    
+}
